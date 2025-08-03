@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/megha-portfolio/static/css/main.01354672.css",
+    "main.js": "/megha-portfolio/static/js/main.c4878f6a.js",
+    "static/js/453.b7c2d4b9.chunk.js": "/megha-portfolio/static/js/453.b7c2d4b9.chunk.js",
+    "index.html": "/megha-portfolio/index.html",
+    "main.01354672.css.map": "/megha-portfolio/static/css/main.01354672.css.map",
+    "main.c4878f6a.js.map": "/megha-portfolio/static/js/main.c4878f6a.js.map",
+    "453.b7c2d4b9.chunk.js.map": "/megha-portfolio/static/js/453.b7c2d4b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01354672.css",
+    "static/js/main.c4878f6a.js"
+  ]
+}
